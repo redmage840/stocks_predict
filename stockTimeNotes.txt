@@ -1,0 +1,16 @@
+adjusted close price
+splits, dividends
+real dollar amount versus nominal dollar amount
+seasonally adjusted versus non
+
+regression analysis
+time series
+average data for each month, keep data resolution
+fred.saintlouisfed.org
+normalize features (0 to 1) (also, how to normalize as parameter)
+add features for previous month, (also, number previous months as parameter) bayesian analysis
+add feature, seasonality
+
+sliding window... choose window size to look at previous/future elements
+multivariate time series
+datetime64 class (sklearn time series class)
